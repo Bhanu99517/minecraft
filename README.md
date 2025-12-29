@@ -18,3 +18,4 @@ python -m minecraft --player <name>:<uuid>
 
 - [x] Support i18n
 - [ ] A simple 3D scene
+ 
