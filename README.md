@@ -17,4 +17,4 @@ python -m minecraft --player <name>:<uuid>
 ## Short-term Goal
 
 - [x] Support i18n
-- [ ] A simple 3D scene
+- [ ] A simple 3D scene 
